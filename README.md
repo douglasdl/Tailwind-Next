@@ -8,6 +8,11 @@ npm create next-app tailwind-next
 Install the dependencies:
 ```sh
 npm i lucide-react
+npm i framer-motion
+npm i @radix-ui/react-tabs
+npm i @radix-ui/react-select
+npm i @formkit/auto-animate
+npm i tailwind-variants
 ```
 
 Install the development dependencies:
@@ -25,6 +30,16 @@ npm run dev
 
 Transform SVG to React Component:
 - [Transform Tools](https://transform.tools/)
+
+Editor
+- [Tiptap](https://tiptap.dev/)
+
+Animations
+- [Framer Motion](https://www.framer.com/motion/)
+- [Auto Animate](https://auto-animate.formkit.com/)
+
+Component Variants:
+- [Tailwind Variants](https://www.tailwind-variants.org/)
 
 VSCode Extensions:
 
