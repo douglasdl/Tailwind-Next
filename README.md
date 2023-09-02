@@ -11,8 +11,11 @@ npm i lucide-react
 npm i framer-motion
 npm i @radix-ui/react-tabs
 npm i @radix-ui/react-select
+npm i @radix-ui/react-collapsible
+npm i @radix-ui/react-scroll-area
 npm i @formkit/auto-animate
 npm i tailwind-variants
+npm i tailwind-merge
 ```
 
 Install the development dependencies:
